@@ -297,6 +297,8 @@ div.underSign {
 div.copyRight {
     font-size: 75%;
     padding: 2em 0em 2em 1.25em;
+    margin-top: 0px;
+    text-align: center;
 }
 
 div.advertBlock {
