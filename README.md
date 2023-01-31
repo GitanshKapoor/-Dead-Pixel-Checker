@@ -2,7 +2,7 @@
 
 Developed a Dead Pixel Checker Web App, that Checks Dead/Non-Working Pixels on a LCD Display.
 
-You can Visit My Webpage on : https://gitansh.me/Dead-Pixel-Checker
+You can Visit My Webpage on : https://gitansh.tech/Dead-Pixel-Checker
 
 
 ## Tech Stack
